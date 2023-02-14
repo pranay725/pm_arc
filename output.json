@@ -1,0 +1,560 @@
+{
+  "nodes": [
+    {
+      "name": "Specialty Dx Ref. Labs",
+      "n": 0,
+      "grp": 1,
+      "id": "Specialty Dx Ref. Labs"
+    },
+    {
+      "name": "Dx Manufacturers",
+      "n": 0,
+      "grp": 1,
+      "id": "Dx Manufacturers"
+    },
+    {
+      "name": "Informatics / AI Companies",
+      "n": 0,
+      "grp": 1,
+      "id": "Informatics / AI Companies"
+    },
+    {
+      "name": "CROs",
+      "n": 0,
+      "grp": 1,
+      "id": "CROs"
+    },
+    {
+      "name": "Research Tools Companies",
+      "n": 0,
+      "grp": 1,
+      "id": "Research Tools Companies"
+    },
+    {
+      "name": "Others",
+      "n": 0,
+      "grp": 1,
+      "id": "Others"
+    },
+    {
+      "name": "Pharmacies / PBMs / Wholesalers",
+      "n": 0,
+      "grp": 1,
+      "id": "Pharmacies / PBMs / Wholesalers"
+    },
+    {
+      "name": "Pharma",
+      "n": 900000000,
+      "grp": 1,
+      "id": "Pharma"
+    },
+    {
+      "name": "Hospitals / AMCs / HCPs",
+      "n": 900000000,
+      "grp": 1,
+      "id": "Hospitals / AMCs / HCPs"
+    },
+    {
+      "name": "Data Aggregators",
+      "n": 0,
+      "grp": 1,
+      "id": "Data Aggregators"
+    },
+    {
+      "name": "CDMOs",
+      "n": 0,
+      "grp": 1,
+      "id": "CDMOs"
+    },
+    {
+      "name": "Payors",
+      "n": 0,
+      "grp": 1,
+      "id": "Payors"
+    },
+    {
+      "name": "General Dx Ref. Labs",
+      "n": 0,
+      "grp": 1,
+      "id": "General Dx Ref. Labs"
+    },
+    {
+      "name": "Patients",
+      "n": 0,
+      "grp": 1,
+      "id": "Patients"
+    }
+  ],
+  "links": [
+    {
+      "source": "Specialty Dx Ref. Labs",
+      "target": "Dx Manufacturers",
+      "value": 100000000
+    },
+    {
+      "source": "Specialty Dx Ref. Labs",
+      "target": "Informatics / AI Companies",
+      "value": 100000000
+    },
+    {
+      "source": "Specialty Dx Ref. Labs",
+      "target": "CROs",
+      "value": 100000000
+    },
+    {
+      "source": "Specialty Dx Ref. Labs",
+      "target": "Research Tools Companies",
+      "value": 100000000
+    },
+    {
+      "source": "Research Tools Companies",
+      "target": "Others",
+      "value": 1000000000
+    },
+    {
+      "source": "Pharmacies / PBMs / Wholesalers",
+      "target": "Pharma",
+      "value": 10000000000
+    },
+    {
+      "source": "Pharma",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 100000000
+    },
+    {
+      "source": "Pharma",
+      "target": "Specialty Dx Ref. Labs",
+      "value": 100000000
+    },
+    {
+      "source": "Pharma",
+      "target": "Dx Manufacturers",
+      "value": 100000000
+    },
+    {
+      "source": "Pharma",
+      "target": "Informatics / AI Companies",
+      "value": 100000000
+    },
+    {
+      "source": "Pharma",
+      "target": "CROs",
+      "value": 10000000000
+    },
+    {
+      "source": "Pharma",
+      "target": "Data Aggregators",
+      "value": 100000000
+    },
+    {
+      "source": "Pharma",
+      "target": "CDMOs",
+      "value": 1000000000
+    },
+    {
+      "source": "Pharma",
+      "target": "Research Tools Companies",
+      "value": 1000000000
+    },
+    {
+      "source": "Payors",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 1000000000
+    },
+    {
+      "source": "Payors",
+      "target": "Specialty Dx Ref. Labs",
+      "value": 1000000000
+    },
+    {
+      "source": "Payors",
+      "target": "General Dx Ref. Labs",
+      "value": 100000000
+    },
+    {
+      "source": "Payors",
+      "target": "Pharmacies / PBMs / Wholesalers",
+      "value": 10000000000
+    },
+    {
+      "source": "Patients",
+      "target": "Pharma",
+      "value": 10000000
+    },
+    {
+      "source": "Patients",
+      "target": "Payors",
+      "value": 10000000000
+    },
+    {
+      "source": "Patients",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 1000000000
+    },
+    {
+      "source": "Patients",
+      "target": "Specialty Dx Ref. Labs",
+      "value": 1000000
+    },
+    {
+      "source": "Others",
+      "target": "Patients",
+      "value": 10000000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "Pharma",
+      "value": 10000000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "Specialty Dx Ref. Labs",
+      "value": 1000000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "General Dx Ref. Labs",
+      "value": 100000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "Dx Manufacturers",
+      "value": 10000000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "Informatics / AI Companies",
+      "value": 10000000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "Research Tools Companies",
+      "value": 100000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "Others",
+      "value": 10000000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "Pharmacies / PBMs / Wholesalers",
+      "value": 10000000000
+    },
+    {
+      "source": "General Dx Ref. Labs",
+      "target": "Dx Manufacturers",
+      "value": 100000000
+    },
+    {
+      "source": "General Dx Ref. Labs",
+      "target": "Informatics / AI Companies",
+      "value": 100000000
+    },
+    {
+      "source": "General Dx Ref. Labs",
+      "target": "Research Tools Companies",
+      "value": 100000000
+    },
+    {
+      "source": "Dx Manufacturers",
+      "target": "Informatics / AI Companies",
+      "value": 10000000
+    },
+    {
+      "source": "Dx Manufacturers",
+      "target": "CROs",
+      "value": 100000000
+    },
+    {
+      "source": "Dx Manufacturers",
+      "target": "Research Tools Companies",
+      "value": 1000000000
+    },
+    {
+      "source": "Data Aggregators",
+      "target": "Payors",
+      "value": 10000000
+    },
+    {
+      "source": "Data Aggregators",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 10000000
+    },
+    {
+      "source": "Data Aggregators",
+      "target": "Informatics / AI Companies",
+      "value": 10000000
+    },
+    {
+      "source": "CROs",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 10000000
+    },
+    {
+      "source": "CROs",
+      "target": "Specialty Dx Ref. Labs",
+      "value": 100000000
+    },
+    {
+      "source": "CROs",
+      "target": "General Dx Ref. Labs",
+      "value": 10000000
+    },
+    {
+      "source": "CROs",
+      "target": "Dx Manufacturers",
+      "value": 1000000000
+    },
+    {
+      "source": "CROs",
+      "target": "Informatics / AI Companies",
+      "value": 100000000
+    },
+    {
+      "source": "CROs",
+      "target": "Research Tools Companies",
+      "value": 1000000000
+    },
+    {
+      "source": "CDMOs",
+      "target": "Research Tools Companies",
+      "value": 100000000
+    },
+    {
+      "source": "Dx Manufacturers",
+      "target": "Specialty Dx Ref. Labs",
+      "value": 100000000
+    },
+    {
+      "source": "Informatics / AI Companies",
+      "target": "Specialty Dx Ref. Labs",
+      "value": 100000000
+    },
+    {
+      "source": "CROs",
+      "target": "Specialty Dx Ref. Labs",
+      "value": 100000000
+    },
+    {
+      "source": "Research Tools Companies",
+      "target": "Specialty Dx Ref. Labs",
+      "value": 100000000
+    },
+    {
+      "source": "Others",
+      "target": "Research Tools Companies",
+      "value": 1000000000
+    },
+    {
+      "source": "Pharma",
+      "target": "Pharmacies / PBMs / Wholesalers",
+      "value": 10000000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "Pharma",
+      "value": 1000000000
+    },
+    {
+      "source": "Specialty Dx Ref. Labs",
+      "target": "Pharma",
+      "value": 100000000
+    },
+    {
+      "source": "Dx Manufacturers",
+      "target": "Pharma",
+      "value": 100000000
+    },
+    {
+      "source": "Informatics / AI Companies",
+      "target": "Pharma",
+      "value": 100000000
+    },
+    {
+      "source": "CROs",
+      "target": "Pharma",
+      "value": 10000000000
+    },
+    {
+      "source": "Data Aggregators",
+      "target": "Pharma",
+      "value": 100000000
+    },
+    {
+      "source": "CDMOs",
+      "target": "Pharma",
+      "value": 1000000000
+    },
+    {
+      "source": "Research Tools Companies",
+      "target": "Pharma",
+      "value": 1000000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "Payors",
+      "value": 1000000000
+    },
+    {
+      "source": "Specialty Dx Ref. Labs",
+      "target": "Payors",
+      "value": 1000000000
+    },
+    {
+      "source": "General Dx Ref. Labs",
+      "target": "Payors",
+      "value": 100000000
+    },
+    {
+      "source": "Pharmacies / PBMs / Wholesalers",
+      "target": "Payors",
+      "value": 10000000000
+    },
+    {
+      "source": "Pharma",
+      "target": "Patients",
+      "value": 10000000
+    },
+    {
+      "source": "Payors",
+      "target": "Patients",
+      "value": 10000000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "Patients",
+      "value": 1000000000
+    },
+    {
+      "source": "Specialty Dx Ref. Labs",
+      "target": "Patients",
+      "value": 1000000
+    },
+    {
+      "source": "Patients",
+      "target": "Others",
+      "value": 10000000000
+    },
+    {
+      "source": "Pharma",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 10000000000
+    },
+    {
+      "source": "Specialty Dx Ref. Labs",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 1000000000
+    },
+    {
+      "source": "General Dx Ref. Labs",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 100000000
+    },
+    {
+      "source": "Dx Manufacturers",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 10000000000
+    },
+    {
+      "source": "Informatics / AI Companies",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 10000000000
+    },
+    {
+      "source": "Research Tools Companies",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 100000000
+    },
+    {
+      "source": "Others",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 10000000000
+    },
+    {
+      "source": "Pharmacies / PBMs / Wholesalers",
+      "target": "Hospitals / AMCs / HCPs",
+      "value": 10000000000
+    },
+    {
+      "source": "Dx Manufacturers",
+      "target": "General Dx Ref. Labs",
+      "value": 100000000
+    },
+    {
+      "source": "Informatics / AI Companies",
+      "target": "General Dx Ref. Labs",
+      "value": 100000000
+    },
+    {
+      "source": "Research Tools Companies",
+      "target": "General Dx Ref. Labs",
+      "value": 100000000
+    },
+    {
+      "source": "Informatics / AI Companies",
+      "target": "Dx Manufacturers",
+      "value": 10000000
+    },
+    {
+      "source": "CROs",
+      "target": "Dx Manufacturers",
+      "value": 100000000
+    },
+    {
+      "source": "Research Tools Companies",
+      "target": "Dx Manufacturers",
+      "value": 1000000000
+    },
+    {
+      "source": "Payors",
+      "target": "Data Aggregators",
+      "value": 10000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "Data Aggregators",
+      "value": 10000000
+    },
+    {
+      "source": "Informatics / AI Companies",
+      "target": "Data Aggregators",
+      "value": 10000000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "CROs",
+      "value": 10000000
+    },
+    {
+      "source": "Specialty Dx Ref. Labs",
+      "target": "CROs",
+      "value": 100000000
+    },
+    {
+      "source": "General Dx Ref. Labs",
+      "target": "CROs",
+      "value": 10000000
+    },
+    {
+      "source": "Dx Manufacturers",
+      "target": "CROs",
+      "value": 1000000000
+    },
+    {
+      "source": "Informatics / AI Companies",
+      "target": "CROs",
+      "value": 100000000
+    },
+    {
+      "source": "Research Tools Companies",
+      "target": "CROs",
+      "value": 1000000000
+    },
+    {
+      "source": "Research Tools Companies",
+      "target": "CDMOs",
+      "value": 100000000
+    }
+  ]
+}
