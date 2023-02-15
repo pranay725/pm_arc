@@ -1,0 +1,78 @@
+{
+  "nodes": [
+    {
+      "name": "Pharmacies / PBMs / Wholesalers",
+      "n": 0,
+      "grp": 1,
+      "id": "Pharmacies / PBMs / Wholesalers"
+    },
+    {
+      "name": "Pharma",
+      "n": 10000,
+      "grp": 1,
+      "id": "Pharma"
+    },
+    {
+      "name": "CROs",
+      "n": 10000,
+      "grp": 1,
+      "id": "CROs"
+    },
+    {
+      "name": "Payors",
+      "n": 0,
+      "grp": 1,
+      "id": "Payors"
+    },
+    {
+      "name": "Patients",
+      "n": 0,
+      "grp": 1,
+      "id": "Patients"
+    },
+    {
+      "name": "Others",
+      "n": 10000,
+      "grp": 1,
+      "id": "Others"
+    },
+    {
+      "name": "Hospitals / AMCs / HCPs",
+      "n": 10000,
+      "grp": 1,
+      "id": "Hospitals / AMCs / HCPs"
+    }
+  ],
+  "links": [
+    {
+      "source": "Pharmacies / PBMs / Wholesalers",
+      "target": "Pharma",
+      "value": 10000
+    },
+    {
+      "source": "Pharma",
+      "target": "CROs",
+      "value": 10000
+    },
+    {
+      "source": "Payors",
+      "target": "Pharmacies / PBMs / Wholesalers",
+      "value": 10000
+    },
+    {
+      "source": "Patients",
+      "target": "Payors",
+      "value": 10000
+    },
+    {
+      "source": "Others",
+      "target": "Patients",
+      "value": 10000
+    },
+    {
+      "source": "Hospitals / AMCs / HCPs",
+      "target": "Pharma",
+      "value": 10000
+    }
+  ]
+}
