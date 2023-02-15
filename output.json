@@ -28,5 +28,445 @@
     "pu_name": "Hospitals / AMCs / HCPs",
     "do_name": "Pharma",
     "count": 10000
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "Dx Manufacturers",
+    "count": 10000
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "Informatics / AI Companies",
+    "count": 10000
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "Others",
+    "count": 10000
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "Pharmacies / PBMs / Wholesalers",
+    "count": 10000
+  },
+  {
+    "pu_name": "Pharma",
+    "do_name": "Pharmacies / PBMs / Wholesalers",
+    "count": 10000
+  },
+  {
+    "pu_name": "CROs",
+    "do_name": "Pharma",
+    "count": 10000
+  },
+  {
+    "pu_name": "Pharmacies / PBMs / Wholesalers",
+    "do_name": "Payors",
+    "count": 10000
+  },
+  {
+    "pu_name": "Payors",
+    "do_name": "Patients",
+    "count": 10000
+  },
+  {
+    "pu_name": "Patients",
+    "do_name": "Others",
+    "count": 10000
+  },
+  {
+    "pu_name": "Pharma",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 10000
+  },
+  {
+    "pu_name": "Dx Manufacturers",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 10000
+  },
+  {
+    "pu_name": "Informatics / AI Companies",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 10000
+  },
+  {
+    "pu_name": "Others",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 10000
+  },
+  {
+    "pu_name": "Pharmacies / PBMs / Wholesalers",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 10000
+  },
+  {
+    "pu_name": "Research Tools Companies",
+    "do_name": "Others",
+    "count": 1000
+  },
+  {
+    "pu_name": "Pharma",
+    "do_name": "CDMOs",
+    "count": 1000
+  },
+  {
+    "pu_name": "Pharma",
+    "do_name": "Research Tools Companies",
+    "count": 1000
+  },
+  {
+    "pu_name": "Payors",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 1000
+  },
+  {
+    "pu_name": "Payors",
+    "do_name": "Specialty Dx Ref. Labs",
+    "count": 1000
+  },
+  {
+    "pu_name": "Patients",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 1000
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "Specialty Dx Ref. Labs",
+    "count": 1000
+  },
+  {
+    "pu_name": "Dx Manufacturers",
+    "do_name": "Research Tools Companies",
+    "count": 1000
+  },
+  {
+    "pu_name": "CROs",
+    "do_name": "Dx Manufacturers",
+    "count": 1000
+  },
+  {
+    "pu_name": "CROs",
+    "do_name": "Research Tools Companies",
+    "count": 1000
+  },
+  {
+    "pu_name": "Others",
+    "do_name": "Research Tools Companies",
+    "count": 1000
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "Pharma",
+    "count": 1000
+  },
+  {
+    "pu_name": "CDMOs",
+    "do_name": "Pharma",
+    "count": 1000
+  },
+  {
+    "pu_name": "Research Tools Companies",
+    "do_name": "Pharma",
+    "count": 1000
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "Payors",
+    "count": 1000
+  },
+  {
+    "pu_name": "Specialty Dx Ref. Labs",
+    "do_name": "Payors",
+    "count": 1000
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "Patients",
+    "count": 1000
+  },
+  {
+    "pu_name": "Specialty Dx Ref. Labs",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 1000
+  },
+  {
+    "pu_name": "Research Tools Companies",
+    "do_name": "Dx Manufacturers",
+    "count": 1000
+  },
+  {
+    "pu_name": "Dx Manufacturers",
+    "do_name": "CROs",
+    "count": 1000
+  },
+  {
+    "pu_name": "Research Tools Companies",
+    "do_name": "CROs",
+    "count": 1000
+  },
+  {
+    "pu_name": "Specialty Dx Ref. Labs",
+    "do_name": "Dx Manufacturers",
+    "count": 100
+  },
+  {
+    "pu_name": "Specialty Dx Ref. Labs",
+    "do_name": "Informatics / AI Companies",
+    "count": 100
+  },
+  {
+    "pu_name": "Specialty Dx Ref. Labs",
+    "do_name": "CROs",
+    "count": 100
+  },
+  {
+    "pu_name": "Specialty Dx Ref. Labs",
+    "do_name": "Research Tools Companies",
+    "count": 100
+  },
+  {
+    "pu_name": "Pharma",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 100
+  },
+  {
+    "pu_name": "Pharma",
+    "do_name": "Specialty Dx Ref. Labs",
+    "count": 100
+  },
+  {
+    "pu_name": "Pharma",
+    "do_name": "Dx Manufacturers",
+    "count": 100
+  },
+  {
+    "pu_name": "Pharma",
+    "do_name": "Informatics / AI Companies",
+    "count": 100
+  },
+  {
+    "pu_name": "Pharma",
+    "do_name": "Data Aggregators",
+    "count": 100
+  },
+  {
+    "pu_name": "Payors",
+    "do_name": "General Dx Ref. Labs",
+    "count": 100
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "General Dx Ref. Labs",
+    "count": 100
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "Research Tools Companies",
+    "count": 100
+  },
+  {
+    "pu_name": "General Dx Ref. Labs",
+    "do_name": "Dx Manufacturers",
+    "count": 100
+  },
+  {
+    "pu_name": "General Dx Ref. Labs",
+    "do_name": "Informatics / AI Companies",
+    "count": 100
+  },
+  {
+    "pu_name": "General Dx Ref. Labs",
+    "do_name": "Research Tools Companies",
+    "count": 100
+  },
+  {
+    "pu_name": "Dx Manufacturers",
+    "do_name": "CROs",
+    "count": 100
+  },
+  {
+    "pu_name": "CROs",
+    "do_name": "Specialty Dx Ref. Labs",
+    "count": 100
+  },
+  {
+    "pu_name": "CROs",
+    "do_name": "Informatics / AI Companies",
+    "count": 100
+  },
+  {
+    "pu_name": "CDMOs",
+    "do_name": "Research Tools Companies",
+    "count": 100
+  },
+  {
+    "pu_name": "Dx Manufacturers",
+    "do_name": "Specialty Dx Ref. Labs",
+    "count": 100
+  },
+  {
+    "pu_name": "Informatics / AI Companies",
+    "do_name": "Specialty Dx Ref. Labs",
+    "count": 100
+  },
+  {
+    "pu_name": "CROs",
+    "do_name": "Specialty Dx Ref. Labs",
+    "count": 100
+  },
+  {
+    "pu_name": "Research Tools Companies",
+    "do_name": "Specialty Dx Ref. Labs",
+    "count": 100
+  },
+  {
+    "pu_name": "Specialty Dx Ref. Labs",
+    "do_name": "Pharma",
+    "count": 100
+  },
+  {
+    "pu_name": "Dx Manufacturers",
+    "do_name": "Pharma",
+    "count": 100
+  },
+  {
+    "pu_name": "Informatics / AI Companies",
+    "do_name": "Pharma",
+    "count": 100
+  },
+  {
+    "pu_name": "Data Aggregators",
+    "do_name": "Pharma",
+    "count": 100
+  },
+  {
+    "pu_name": "General Dx Ref. Labs",
+    "do_name": "Payors",
+    "count": 100
+  },
+  {
+    "pu_name": "General Dx Ref. Labs",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 100
+  },
+  {
+    "pu_name": "Research Tools Companies",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 100
+  },
+  {
+    "pu_name": "Dx Manufacturers",
+    "do_name": "General Dx Ref. Labs",
+    "count": 100
+  },
+  {
+    "pu_name": "Informatics / AI Companies",
+    "do_name": "General Dx Ref. Labs",
+    "count": 100
+  },
+  {
+    "pu_name": "Research Tools Companies",
+    "do_name": "General Dx Ref. Labs",
+    "count": 100
+  },
+  {
+    "pu_name": "CROs",
+    "do_name": "Dx Manufacturers",
+    "count": 100
+  },
+  {
+    "pu_name": "Specialty Dx Ref. Labs",
+    "do_name": "CROs",
+    "count": 100
+  },
+  {
+    "pu_name": "Informatics / AI Companies",
+    "do_name": "CROs",
+    "count": 100
+  },
+  {
+    "pu_name": "Research Tools Companies",
+    "do_name": "CDMOs",
+    "count": 100
+  },
+  {
+    "pu_name": "Patients",
+    "do_name": "Pharma",
+    "count": 10
+  },
+  {
+    "pu_name": "Dx Manufacturers",
+    "do_name": "Informatics / AI Companies",
+    "count": 10
+  },
+  {
+    "pu_name": "Data Aggregators",
+    "do_name": "Payors",
+    "count": 10
+  },
+  {
+    "pu_name": "Data Aggregators",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 10
+  },
+  {
+    "pu_name": "Data Aggregators",
+    "do_name": "Informatics / AI Companies",
+    "count": 10
+  },
+  {
+    "pu_name": "CROs",
+    "do_name": "Hospitals / AMCs / HCPs",
+    "count": 10
+  },
+  {
+    "pu_name": "CROs",
+    "do_name": "General Dx Ref. Labs",
+    "count": 10
+  },
+  {
+    "pu_name": "Pharma",
+    "do_name": "Patients",
+    "count": 10
+  },
+  {
+    "pu_name": "Informatics / AI Companies",
+    "do_name": "Dx Manufacturers",
+    "count": 10
+  },
+  {
+    "pu_name": "Payors",
+    "do_name": "Data Aggregators",
+    "count": 10
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "Data Aggregators",
+    "count": 10
+  },
+  {
+    "pu_name": "Informatics / AI Companies",
+    "do_name": "Data Aggregators",
+    "count": 10
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "CROs",
+    "count": 10
+  },
+  {
+    "pu_name": "General Dx Ref. Labs",
+    "do_name": "CROs",
+    "count": 10
+  },
+  {
+    "pu_name": "Patients",
+    "do_name": "Specialty Dx Ref. Labs",
+    "count": 1
+  },
+  {
+    "pu_name": "Specialty Dx Ref. Labs",
+    "do_name": "Patients",
+    "count": 1
   }
 ]
