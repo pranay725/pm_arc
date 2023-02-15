@@ -1,1 +1,32 @@
-[{'pu_name': 'Pharmacies / PBMs / Wholesalers', 'do_name': 'Pharma', 'count': 10000}, {'pu_name': 'Pharma', 'do_name': 'CROs', 'count': 10000}, {'pu_name': 'Payors', 'do_name': 'Pharmacies / PBMs / Wholesalers', 'count': 10000}, {'pu_name': 'Patients', 'do_name': 'Payors', 'count': 10000}, {'pu_name': 'Others', 'do_name': 'Patients', 'count': 10000}, {'pu_name': 'Hospitals / AMCs / HCPs', 'do_name': 'Pharma', 'count': 10000}]
+[
+  {
+    "pu_name": "Pharmacies / PBMs / Wholesalers",
+    "do_name": "Pharma",
+    "count": 10000
+  },
+  {
+    "pu_name": "Pharma",
+    "do_name": "CROs",
+    "count": 10000
+  },
+  {
+    "pu_name": "Payors",
+    "do_name": "Pharmacies / PBMs / Wholesalers",
+    "count": 10000
+  },
+  {
+    "pu_name": "Patients",
+    "do_name": "Payors",
+    "count": 10000
+  },
+  {
+    "pu_name": "Others",
+    "do_name": "Patients",
+    "count": 10000
+  },
+  {
+    "pu_name": "Hospitals / AMCs / HCPs",
+    "do_name": "Pharma",
+    "count": 10000
+  }
+]
